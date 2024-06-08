@@ -1,4 +1,4 @@
-## SpamGuard 📱🛡️
+# SpamGuard 📱🛡️
 
 Welcome to the SpamGuard repository!
 
